@@ -1,0 +1,14 @@
+Version control with GIT
+Keep track of different of code- to go back..
+git --version 
+
+# To track who make changes
+git config --global user.name "ChrisLe"
+git config --global user.email "le.c@wehi.edu.au"
+
+git config --global core.autocrlf true
+git config --global core.editor "code --wait"
+
+git config --global --edit (pop up page- close to keep running ??)
+git config --list
+
